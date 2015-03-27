@@ -1,0 +1,29 @@
+
+/* CSS Document */
+
+
+#divcss5{
+	width:1080px;
+	overflow:hidden;
+	margin-left: 150px;
+	padding-top: 30px;
+}
+ul,li{ list-style:none}
+.dis{ display:block}
+.undis{ display:none}
+.nav{ width:100%; margin:0 auto; height:26px; padding-top:4px;background:url(../images/menu_bg_1.gif) no-repeat -99px bottom;}
+.nav li{ float:left; width:98px; height:26px; padding-right:5px}
+.nav li a{float:left; width:98px; height:26px; text-align:center; line-height:26px}
+.nav li.nav_current a{
+	color:#80C4AF;
+}
+.nav li.nav_link a{
+	color:#FFF;
+}
+.nav-down{
+	height:auto;
+	text-align:left;
+	border-top-width: 3px;
+	border-top-style: solid;
+	border-top-color: #FFF;
+}

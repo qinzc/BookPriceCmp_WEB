@@ -1,0 +1,329 @@
+
+/* CSS Document */
+
+.main{
+	width:1360px;
+	background-color: #1A1624;
+	margin-left: -5px;
+	margin-top: -7px;
+	padding-bottom: 50px;
+	overflow: hidden;
+
+}
+.caidan{
+	width:100px;
+	float: left;
+	margin-left: 50px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	margin-top: 15px;
+}
+.caidanl{
+	width:30px;
+	float:left;
+}
+.caidanr{
+	width:40px;
+	float:right;
+	margin-right: 25px;
+	margin-top: 8px;
+}
+.shop-car1{
+	width:80px;
+	margin-left: 50px;
+	float: left;
+	margin-top: 10px;
+	
+}
+.shop-car{
+	width:160px;
+	padding-top: 50px;
+	margin-left: 370px;
+	float: left;
+	
+}
+.bijia1{
+	width:200px;
+	float: left;
+	margin-top: 20px;
+}
+.bijia{
+	width:200px;
+	float: left;
+	margin-top: 70px;
+}
+.content{
+	width:1360px;
+	overflow:hidden;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+.content1{
+	width:1360px;
+	overflow:hidden;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+.denglu{
+	float:right;
+	width: 130px;
+	margin-top: 20px;
+}
+.denglu1{
+	float:right;
+	width: 180px;
+}
+.denglu2{
+	float:right;
+	width: 300px;
+}
+.search{
+	width:1000px;
+	margin-left: 270px;
+	color: #999;
+}
+.search1{
+	width:1000px;
+	margin-left: 50px;
+	color: #999;
+}
+.select{
+	width:100px;
+	height: 44px;s
+	line-height: 30px;
+	border: 1px solid #28902D;
+	border-radius:5px 0 0 5px;
+
+
+
+
+
+	+margin-top: 1px;
+	font-family:  "造字工房悦圆演示版常规体";
+	font-size: 16px;
+	letter-spacing: 2px;
+	
+}
+.select1{
+	width:100px;
+	height: 35px;
+s
+	line-height: 30px;
+	border: 1px solid #28902D;
+	border-radius:5px 0 0 5px;
+
+
+
+
+
+
+	+margin-top: 1px;
+	font-family:  "造字工房悦圆演示版常规体";
+	font-size: 16px;
+	letter-spacing: 2px;
+	
+}
+.input{
+	width:600px;
+
+
+	box-show:0px 2px 2px rgba(0,0,0,0.1)inset
+	line-height: 40px;
+	height: 42px;
+	border: 1px solid #28902D;
+
+}
+.input1{
+	width:550px;
+
+
+
+
+	box-show:0px 2px 2px rgba(0,0,0,0.1)inset
+	line-height: 40px;
+	height: 35px;
+	border: 1px solid #28902D;
+
+}
+.button1{
+	width:80px;
+	line-height: 44px;
+	height: 44px !important;
+	background-color: #28902D;
+	background-image: url(../images/sousuo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius:0px 2px 2px 0px;
+	box-shadow:none;
+	margin-left:-1px;
+	border:0px none !important;
+	display:inline-block;
+	position:absolute;
+	+margin-top: 1px;
+    border-radius:0 5px 5px 0;
+	
+}
+.button2{
+	width:80px;
+	line-height: 37px;
+	height: 37px !important;
+	background-color: #28902D;
+	background-image: url(../images/sousuo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius:0px 2px 2px 0px;
+	box-shadow:none;
+	margin-left:-1px;
+	border:0px none !important;
+	display:inline-block;
+	position:absolute;
+
+
+	+margin-top: 1px;
+	border-radius:0 5px 5px 0;
+	
+}
+.div0{
+	width:auto;
+	margin-top: 50px;
+	overflow:hidden;
+}
+.div1{
+	width:auto;
+	margin-top: 50px;
+	overflow:hidden;
+}
+.bookl{
+	width:250px;
+	float:left;
+	margin-left: 200px;
+	padding-top: 50px;
+	background-color: #E4FFF6;
+	border-radius:5px 0 0 5px;
+}
+.bookll{
+	width:250px;
+	float:left;
+	margin-left: 80px;
+	padding-top: 50px;
+	background-color: #E4FFF6;
+	border-radius:5px 0 0 5px;
+}
+.pp{
+	color:#000;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.pp1{color:#F30;}
+.pic{
+	width: 250px;
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 81px;
+}
+.bookr{
+	width:700px;
+	float:left;
+	background-color: #FFF;
+	border-radius: 0 5px  5px 0;
+}
+.book1{
+	width:140px;
+	margin-top: 10px;
+	border: 2px solid #E4FFF6;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	float: left;
+	padding: 5px;
+	margin-left: 1px;
+}
+.price1{
+	color:#000;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+}
+.book-n{
+	color:#F00;
+	font-size: 18px;
+}
+.bookn{text-align: center;}
+.loginb{
+	width:50px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFF;
+}
+.loginb1{
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFF;
+}
+.foot{
+	width:1360px;
+	background-color: #909090;
+	height: 50px;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+}
+homeagetab username css
+.c-icon{display: inline-block;
+width: 14px;
+height: 14px;
+vertical-align: text-bottom;
+font-style: normal;
+overflow: hidden;
+background:url(../images/users.png) no-repeat 0 0;}
+
+.div02{
+	width:720px;
+	margin-left: 50px;
+	line-height: 35px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #80C4AF;
+	color: #FFF;
+	font-size: 16px;
+	font-weight: bold;
+}
+.list-result{
+	width:1300px;
+	overflow: hidden;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.list-rel{
+	width:720px;
+	float: left;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 15px;
+	padding-left: 5px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #80C4AF;
+}
+.list-rer{
+	width:400px;
+	float: right;
+	margin-right: 50px;
+}
+.listcont{width:900px}
+.picture{width:170px;float: left;}
+.neir{
+	width:660px;
+	float: right;
+	margin-right: 50px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	line-height: 40px;
+}
+.td-tit{
+	color:#80C4AF;
+}
